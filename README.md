@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crichmond-clark
 - 👀 I’m interested in ... Javascript and Python
 - 🌱 I’m currently learning ... Django / Vue + lots more
-- 💞️ I’m looking to collaborate on ... Project that will make me rich af
+
 - 📫 How to reach me ... 
 
 <!---
