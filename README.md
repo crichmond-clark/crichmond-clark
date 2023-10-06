@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crichmond-clark
-- 👀 I’m interested in ... Javascript and Python
-- 🌱 I’m currently learning ... Django / Vue + lots more
+- 👀 I’m interested in ... Javascript
+- 🌱 I’m currently learning ... Svelte, Strapi, Tailwind
 
 - 📫 How to reach me ... 
 
