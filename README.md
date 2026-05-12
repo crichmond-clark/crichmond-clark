@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @crichmond-clark
-- 👀 I’m interested in ... too much stuff to learn
-- 🌱 I’m currently learning ... Go / AWS
 
 - 📫 How to reach me ...
 - email: crichmondclark@gmail.com
